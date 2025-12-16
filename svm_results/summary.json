@@ -1,0 +1,10 @@
+{
+  "best_params": {
+    "clf__C": 0.1,
+    "clf__gamma": "scale",
+    "clf__kernel": "linear"
+  },
+  "cv_best_score_f1_macro": 0.7551020384846042,
+  "test_accuracy": 0.7036423841059603,
+  "test_f1_macro": 0.6255829787700201
+}
